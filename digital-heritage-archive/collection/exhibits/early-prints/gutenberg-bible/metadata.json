@@ -1,0 +1,16 @@
+{
+  "title": "Gutenberg Bible",
+  "creator": "Johannes Gutenberg",
+  "date": "1455",
+  "type": "Printed Book",
+  "language": "Latin",
+  "description": "First major book printed using mass-produced movable metal type in Europe.",
+  "subject": [
+    "Printing History",
+    "Renaissance",
+    "Religious Texts"
+  ],
+  "location": "Mainz, Germany",
+  "format": "2 volumes",
+  "identifier": "GB1455"
+}

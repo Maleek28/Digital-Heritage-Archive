@@ -1,0 +1,20 @@
+{
+  "title": "Dead Sea Scrolls",
+  "creator": "Various scribes",
+  "date": "-300 to 100",
+  "type": "Manuscript",
+  "language": [
+    "Hebrew",
+    "Aramaic",
+    "Greek"
+  ],
+  "description": "Ancient Jewish manuscripts discovered in caves near the Dead Sea, including the earliest known biblical texts.",
+  "subject": [
+    "Ancient Judaism",
+    "Religious Texts",
+    "Archaeology"
+  ],
+  "location": "Qumran, Judean Desert",
+  "format": "Scrolls and fragments",
+  "identifier": "DSSQumran"
+}

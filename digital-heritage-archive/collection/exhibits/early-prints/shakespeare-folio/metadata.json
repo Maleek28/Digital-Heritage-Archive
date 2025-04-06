@@ -1,0 +1,16 @@
+{
+  "title": "Shakespeare First Folio",
+  "creator": "William Shakespeare",
+  "date": "1623",
+  "type": "Printed Book",
+  "language": "English",
+  "description": "First collected edition of Shakespeare\u2019s plays, preserving many works that had never been printed before.",
+  "subject": [
+    "Literature",
+    "Theater",
+    "Early Modern England"
+  ],
+  "location": "London, England",
+  "format": "1 folio volume",
+  "identifier": "SF1623"
+}
