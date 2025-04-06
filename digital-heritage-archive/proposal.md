@@ -66,3 +66,10 @@ Users need:
 
 **Skills Required**: Content research, metadata standards (Dublin Core, schema.org), Git/GitHub, writing for web, public engagement
 
+## References
+"The Gutenberg Bible" by Stefan Zweig or The Gutenberg Galaxy by Marshall McLuhan
+Shakespeare’s First Folio: The History of the Book by Emilia Droz.
+The Dead Sea Scrolls: A New Translation by Michael O. Wise and The Dead Sea Scrolls and the Bible by James C. VanderKam 
+The Egyptian Book of the Dead: The Book of Going Forth by Day, translated by Raymond Faulkner.
+The Dresden Codex: A Study of the Maya Manuscript by Catherine C. A. Teeter
+
